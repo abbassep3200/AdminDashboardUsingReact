@@ -1,0 +1,54 @@
+{
+  "classbon": "کلاسبن",
+  "register": {
+    "title": "پلتفرم آموزش آنلاین",
+    "introMessage": "جهت استفاده از ویژگی های پلتفرم آموزش آنلاین کلاسبن ثبت نام کنید",
+    "register": "ثبت نام کنید",
+    "mobile": "موبایل",
+    "password": "رمز عبور",
+    "repeatPassword": "تکرار رمز عبور",
+    "alreadyRegistered": "قبلا ثبت نام کرده اید؟",
+    "signin": "وارد شوید",
+    "saving": "در حال ذخیره اطلاعات ...",
+    "successOperation": "عملیات با موفقیت انجام شد. به صفحه ورود منتقل می شوید",
+    "validation": {
+        "mobileRequired": "موبایل الزامی است",
+        "passwordRequired": "رمز عبور الزامی است",
+        "repeatPasswordRequired": "تکرار رمز عبور الزامی است",
+        "mobileLength": "شماره موبایل باید 11 رقم باشد",
+        "notMatching": "عدم تطابق رمز های وارد شده",
+        "PasswordTooShort": "حداقل طول رمز عبور باید 6 کاراکتر باشد",
+        "DuplicateUserName": "نام کاربری قبلا توسط کاربر دیگری ثبت شده است"
+    }
+  },
+  "login": {
+    "title": "پلتفرم آموزش آنلاین",
+    "introMessage": "جهت ورود لازم است از طریق موبایل و رمز عبور خود اقدام نمایید",
+    "signingin": "در حال ورود ...",
+    "signin": "وارد شوید",
+    "register": "ثبت نام کنید",
+    "mobile": "موبایل",
+    "password": "رمز عبور",
+    "areNotRegistered": "ثبت نام نکرده اید؟",
+    "validation": {
+        "mobileRequired": "موبایل الزامی است",
+        "passwordRequired": "رمز عبور الزامی است",
+        "IncorrectUserNameOrPassword": "موبایل یا رمز عبور صحیح نمی باشد"
+    }
+  },
+  "mainLayout": {
+    "sidebar": {
+      "subtitle": "پلتفرم آموزش آنلاین",
+      "courseManagement": "مدیریت دوره ها",
+      "allCourses": "همه دوره ها",
+      "coursesCategory": "دسته بندی دوره ها",
+      "courseDiscount": "تخفیف دوره ها",
+      "userManagement": "مدیریت کاربرها",
+      "teacherManagement": "مدیریت مدرس ها",
+      "studentManagement": "مدیریت دانشجوها",
+      "blogManagement": "مدیریت بلاگ",
+      "tagManagement": "مدیریت تگ ها",
+      "postManagement": "مدیریت پست ها"
+    }
+  }
+}

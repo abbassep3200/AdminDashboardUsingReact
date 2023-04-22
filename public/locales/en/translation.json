@@ -1,0 +1,54 @@
+{
+  "classbon": "classbon",
+  "register": {
+    "title": "Online Education Platform",
+    "introMessage": "Register to use the features of Classbon online education platform",
+    "register": "Register",
+    "mobile": "Mobile",
+    "password": "Password",
+    "repeatPassword": "Repeat password",
+    "alreadyRegistered": "Already registered?",
+    "signin": "Sign in",
+    "saving": "Saving ...",
+    "successOperation": "Your changes have been successfully saved",
+    "validation": {
+      "mobileRequired": "Mobile is required",
+      "passwordRequired": "Password is required",
+      "repeatPasswordRequired": "Repeat password  is required",
+      "mobileLength": "Mobile number must be 11 digits",
+      "notMatching": "Password do not match",
+      "PasswordTooShort": "Passwords must be at least 6 characters",
+      "DuplicateUserName": "This username is already taken"
+    }
+  },
+  "login": {
+    "title": "Online Education Platform",
+    "introMessage": "To log in, you need to use your mobile phone and password",
+    "signingin": "Signing in ...",
+    "signin": "Sign in",
+    "register": "Register",
+    "mobile": "Mobile",
+    "password": "Password",
+    "areNotRegistered": "You're not registered?",
+    "validation": {
+      "mobileRequired": "Mobile is required",
+      "passwordRequired": "Password is required",
+      "IncorrectUserNameOrPassword": "The username or password is incorrect"
+    }
+  },
+  "mainLayout": {
+    "sidebar": {
+      "subtitle": "Online Education Platform",
+      "courseManagement": "Course Management",
+      "allCourses": "All Courses",
+      "coursesCategory": "Courses Category",
+      "courseDiscount": "Course Discount",
+      "userManagement": "User Management",
+      "teacherManagement": "Teacher Management",
+      "studentManagement": "Student Management",
+      "blogManagement": "BlogManagement",
+      "tagManagement": "TagManagement",
+      "postManagement": "PostManagement"
+    }
+  }
+}
