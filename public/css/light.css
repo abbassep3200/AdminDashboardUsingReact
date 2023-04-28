@@ -234,3 +234,7 @@ body[data-direction=ltr] * {
   background-color: #384259;
   color: white;
 }
+
+.modal {
+ background-color: rgba(0, 0, 0, 0.4); 
+}
