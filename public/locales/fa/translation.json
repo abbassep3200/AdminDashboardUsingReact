@@ -50,5 +50,8 @@
       "tagManagement": "مدیریت تگ ها",
       "postManagement": "مدیریت پست ها"
     }
+  },
+  "categoryList": {
+    "DeleteIsNotPossible": "امکان حذف این دسته وجود ندارد"
   }
 }

@@ -50,5 +50,8 @@
       "tagManagement": "TagManagement",
       "postManagement": "PostManagement"
     }
+  },
+  "categoryList": {
+    "DeleteIsNotPossible": "It is not possible to delete this category"
   }
 }
