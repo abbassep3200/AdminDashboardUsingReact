@@ -52,6 +52,7 @@
     }
   },
   "categoryList": {
-    "DeleteIsNotPossible": "امکان حذف این دسته وجود ندارد"
+    "DeleteIsNotPossible": "امکان حذف این دسته وجود ندارد",
+    "DuplicateCategory": "امکان افزودن دسته تکراری وجود ندارد"
   }
 }
